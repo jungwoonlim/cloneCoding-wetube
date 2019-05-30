@@ -1,5 +1,3 @@
-// const express = require(`express`);
-import "@babel/polyfill";
 import express from "express";
 import morgan from "morgan";
 import helmet from "helmet";
