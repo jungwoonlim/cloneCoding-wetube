@@ -84,5 +84,7 @@ typings/
 .dynamodb/
 
 # package.json
-package.json
 package-lock.json
+uploads
+static
+build
